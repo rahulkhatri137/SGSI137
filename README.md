@@ -11,5 +11,5 @@
 [![Download SGSI137](https://img.shields.io/sourceforge/dt/sgsi137.svg)](https://sourceforge.net/projects/sgsi137/files/latest/download)
 [![Download SGSI137](https://img.shields.io/sourceforge/dm/sgsi137.svg)](https://sourceforge.net/projects/sgsi137/files/latest/download)
 ## Credits -
-VegaBobo , Velosh, Phhusson, Xiaoxindada
+VegaBobo, Velosh, Phhusson, Xiaoxindada,
 Erfan Abdi, Nippon, Treble Experience
