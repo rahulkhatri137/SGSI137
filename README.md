@@ -4,6 +4,12 @@
 * 🌟 Support: Android 11,12 SGSIs
 * 🔘 Tool: Rebuilt XiaoxindadaSGSIs tool
 </b>
+
+* Generic System Image - https://source.android.com/setup/build/gsi
+* Telegram - https://t.me/SGSI137
+* SourceForge - https://sourceforge.net/projects/sgsi137/
+
+
 ⚠️ Caution - You might damage your device so flash responsibly
 
 [![Download SGSI137](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/sgsi137/files/latest/download)
