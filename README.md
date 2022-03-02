@@ -19,3 +19,5 @@
 ## Credits -
 VegaBobo, Velosh, Phhusson, Xiaoxindada,
 Erfan Abdi, Nippon, Treble Experience
+
+![SGSI137](https://sourceforge.net/cdn/syndication/badge_img/3464365/oss-rising-star-white?achievement=oss-rising-star&r=https://sourceforge.net/p/sgsi137/admin/files-sf/badges)
