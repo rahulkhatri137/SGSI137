@@ -20,5 +20,6 @@
 [VegaBobo](https://github.com/VegaBobo), [Velosh/Hakalle](https://github.com/Hakalle), [Phhusson](https://github.com/phhusson), [Xiaoxindada](https://github.com/xiaoxindada),
 [Erfan Abdi](https://github.com/erfanoabdi), [Nippon](https://t.me/nnippon), [Treble Experience](https://github.com/TrebleExperience)
 
-![SGSI137](https://sourceforge.net/cdn/syndication/badge_img/3464365/oss-rising-star-white?achievement=oss-rising-star&r=https://sourceforge.net/p/sgsi137/admin/files-sf/badges)
-![SGSI137](https://sourceforge.net/cdn/syndication/badge_img/3464365/oss-sf-favorite-white?achievement=oss-sf-favorite&r=https://sourceforge.net/p/sgsi137/admin/files-sf/badges)
+## Achievements -
+<img align="left" width="55px" src="https://sourceforge.net/cdn/syndication/badge_img/3464365/oss-rising-star-white" />
+<img align="left" width="55px" src="https://sourceforge.net/cdn/syndication/badge_img/3464365/oss-sf-favorite-white" />
